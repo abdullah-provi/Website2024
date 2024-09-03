@@ -262,15 +262,15 @@ ul li a:hover{
 
 }
 
-.icon a{
+.icons a{
     text-decoration: none;
     color: #fff;
     
 
 }
 
-.icon ion-icon{
-    font-size: 20px;
+.icons ion-icon{
+    font-size: 30px;
     color: #fff;
     padding-left: 14px;
     padding-top: 5px;
@@ -278,7 +278,7 @@ ul li a:hover{
     
 }
 
-.icon ion-icon:hover{
+.icons ion-icon:hover{
     color: #ff7200;
 }
 
